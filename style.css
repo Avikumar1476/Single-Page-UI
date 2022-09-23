@@ -1,0 +1,65 @@
+.background{
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    height: 491px;
+    color: white;
+    text-align: center;
+   
+}
+.h1{
+    padding: 135px 0PX 30PX 0PX;
+    font-family: revert;
+}
+.button {
+    background-color: transparent; 
+    border: 1px solid white;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 8px;
+    margin: 10px 0px 10px 0px ;
+  }
+  .button:hover {
+    background-color: #64655f; 
+    color: #010101;
+  }
+  .mid h4{
+      color: black;
+      text-align: center;
+      padding: 60px 0px 0px 0px;
+  }
+  .back1{
+      background-image: url(images/space.jpg);
+      background-size: cover;
+      height: 380px;
+  }
+
+  .row p{
+      font-size: 15px;
+  }
+
+  .button1 {
+    background-color: #73c9be; 
+    border: 1px solid white;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 8px;
+    
+  }
+  .button1:hover {
+    background-color: #64655f; 
+    color: #010101;
+  }
+
+  .icon{
+   
+    margin-top: -15px;
+  }
+  .icon1{
+    padding: 12px 0px 0px 0px;
+  }
